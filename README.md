@@ -1,4 +1,4 @@
 - 👋 Hi, I’m John Daniel Semine
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently mastering SCSS and Javascript (React.js after) 
+- 🌱 I’m currently mastering React and soon Next.js
 - 📫 How to reach me: jdanielsemine@gmail.com
