@@ -1,4 +1,4 @@
 - 👋 Hi, I’m John Daniel Semine
 - 👀 I’m interested in web development
 - 🌱 I’m currently mastering Next.js 
-- 📫 How to reach me: jdanielsemine@gmail.com
+- 📫 web portfolio: https://www.johndanielsemine.com/
