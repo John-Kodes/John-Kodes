@@ -1,4 +1,4 @@
 - 👋 Hi, I’m John Daniel Semine
 - 👀 I’m interested in web development
-- 🌱 I’m currently mastering Next.js 
+- 🌱 I’m currently working at SageTap
 - 📫 web portfolio: https://www.johndanielsemine.com/
