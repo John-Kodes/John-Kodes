@@ -1,4 +1,1 @@
-- 👋 Hi, I’m John Daniel Semine
-- 👀 I’m interested in web development
-- 🌱 I’m currently working at SageTap
-- 📫 web portfolio: https://www.johndanielsemine.com/
+📫 web portfolio: https://www.johndanielsemine.com/
